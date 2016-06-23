@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Rails](RailsHello)
+* [Rails](HelloRails.md)
 
