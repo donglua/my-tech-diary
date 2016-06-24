@@ -23,4 +23,6 @@ cd hello_app/
 bundle install
 ```
 
+* ```rails server```
+
 
