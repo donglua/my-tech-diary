@@ -31,6 +31,9 @@ rails server -b $IP -p $PORT
 ```
 
 ## MVC结构
+* 模型
+* 视图
+控制器”
 
 
 ## Hello World
