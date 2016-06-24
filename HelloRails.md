@@ -54,7 +54,6 @@ end
 ```
 * 修改Rails路由
 _config/routes.rb_
-
 ```
 Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
