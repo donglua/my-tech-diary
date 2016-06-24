@@ -22,7 +22,6 @@ rails _4.2.2_ new hello_app
 cd hello_app/
 bundle install
 ```
-
 * ```rails server```
 
 指定IP和端口
@@ -34,7 +33,6 @@ rails server -b $IP -p $PORT
 * 模型
 * 视图
 * 控制器
-
 
 ## Hello World
 
