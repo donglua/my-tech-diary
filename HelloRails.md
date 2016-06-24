@@ -40,7 +40,7 @@ rails server -b $IP -p $PORT
 
 添加一个控制器动作，渲染字符串“hello, world!
 * 在 ApplicationController 中添加 hello 动作
-app/controllers/application_controller.rb
+__app/controllers/application_controller.rb__
 ```ruby
 class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
