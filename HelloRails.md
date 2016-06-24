@@ -25,7 +25,7 @@ bundle install
 
 * ```rails server```
 
-指定IP端口
+指定IP和端口
 ```
 rails server -b $IP -p $PORT
 ```
