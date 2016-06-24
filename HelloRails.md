@@ -25,4 +25,9 @@ bundle install
 
 * ```rails server```
 
+```
+rails server -b $IP -p $PORT
+```
+
+
 
