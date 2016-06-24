@@ -53,7 +53,6 @@ class ApplicationController < ActionController::Base
 end
 ```
 * 修改Rails路由
-
 _config/routes.rb_
 
 ```
@@ -62,6 +61,7 @@ Rails.application.routes.draw do
   # root 'welcome#index”
   root 'application#hello'
 end
+
 ```
 
 
