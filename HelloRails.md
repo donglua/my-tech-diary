@@ -32,7 +32,9 @@ rails server -b $IP -p $PORT
 
 ## MVC结构
 
+
 ## Hello World
+
 
 
 
