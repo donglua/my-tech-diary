@@ -41,6 +41,7 @@ rails server -b $IP -p $PORT
 添加一个控制器动作，渲染字符串“hello, world!
 * 在 ApplicationController 中添加 hello 动作
 _app/controllers/application_controller.rb_
+
 ```ruby
 class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
@@ -54,6 +55,7 @@ end
 ```
 * 修改Rails路由
 _config/routes.rb_
+
 ```ruby
 Rails.application.routes.draw do
   # You can have the root of your site routed with "root"
