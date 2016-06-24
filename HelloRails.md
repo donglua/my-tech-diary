@@ -30,5 +30,9 @@ bundle install
 rails server -b $IP -p $PORT
 ```
 
+## MVC结构
+
+MVC
+
 
 
