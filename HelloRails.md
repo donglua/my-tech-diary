@@ -16,7 +16,11 @@ rails _4.2.2_ new hello_app
 
 * Bundler
 
-使用 Bundler 安装和包含该应用所需的 gem
+使用 Bundler 安装和包含该应用所需的 gem。
 
+```
+cd hello_app/
+bundle install
+```
 
 
