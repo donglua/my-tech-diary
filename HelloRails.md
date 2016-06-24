@@ -38,6 +38,11 @@ rails server -b $IP -p $PORT
 
 ## Hello World
 
+添加一个控制器动作，渲染字符串“hello, world!
+
+
+
+
 
 
 
