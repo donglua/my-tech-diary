@@ -52,6 +52,10 @@ class ApplicationController < ActionController::Base
   end
 end
 ```
+* 修改Rails路由
+
+
+
 
 
 
