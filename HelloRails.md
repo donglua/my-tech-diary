@@ -40,7 +40,18 @@ rails server -b $IP -p $PORT
 
 添加一个控制器动作，渲染字符串“hello, world!
 * 在 ApplicationController 中添加 hello 动作
+app/controllers/application_controller.rb
+```ruby
+class ApplicationController < ActionController::Base
+  # Prevent CSRF attacks by raising an exception.
+  # For APIs, you may want to use :null_session instead.
+  protect_from_forgery with: :exception
 
+  def hello
+    render text: "hello, world!"
+  end
+end
+```
 
 
 
