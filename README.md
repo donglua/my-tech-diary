@@ -1,4 +1,4 @@
-# 学习笔记
+# 笔记
 
 * Android
   * [Android View 事件分发机制](Android/android_view_event.md)
