@@ -6,4 +6,5 @@
 * [RxJava中的错误处理](Android/rxjava_handle_error.md)
 * [Fragment生命周期的坑](Android/bad_fragment.md)
 * [Vagrant](Misc/Vagrant.md)
+* [Jenkins 2](Android/jenkins2.md)
 
